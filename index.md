@@ -6,7 +6,7 @@ I am Bryan Velazqeuz a computer science major at CSUF with a  backround in UI/UX
 ## Favorite CPSC 120L Labs
 * Lab 04, Part 1
    
-    I liked this lab because it was a conversion tool that is genuinely helpful and is a valuable tool to use in day to day life. I liked learning how each conversion is done by dividing something by something and exactly which to divide with. It showed me how although easy, tedious and many people don’t want to do all that math day to day.
+    I liked this lab because it was a conversion tool that is genuinely helpful and is a valuable tool to use in day to day life. I liked learning how each conversion is done by dividing something by something and exactly which to divide with. It showed me how although easy, tedious and many people don’t want to do all that math day to day. I also learned how to use make test, make lint, and make format in this lab. Which is crucial for future labs.
 
 * Lab 05, Part 1
    
